@@ -1,14 +1,14 @@
 # Generator
 
-Feito em JAVA SCRIPT.
+<p>
+Vantagens:
 
-Nele tem:
-
-Auto Proxy Scrapper
-Auto Checker
-Auto Nitro Code Generator
-Auto Redeem
-Envia para Webhook
+Auto Checker.
+Auto Proxy Scrapper.
+Auto Nitro Code Generator.
+Auto Redeem.
+Envia para seu webhook.
+</p>
 
 Youtube video:
 Discord: https://discord.gg/KdJEdNtcXj
