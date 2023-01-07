@@ -1,0 +1,34 @@
+proxies:
+  
+  save_working: true
+
+  
+  enable_checker: true
+
+  
+  enable_scrapper: true
+
+  # Edite para o maximo de proxies que deseja usar. (Recomendado: 1000)
+  max_proxies_download: 1000
+
+
+threads: 100
+
+
+webhook:
+  
+  enabled: true
+
+  # Seu webhook
+  url: WEBHOOK
+
+  # Configurações do Webhook
+  notifications:
+    
+    boot: true
+
+    valid_code: true
+
+    status_update_interval: 120
+
+debug_mode: false
