@@ -4,13 +4,9 @@
 Vantagens:
 
 Auto Checker.
-split()
 Auto Proxy Scrapper.
-split()
 Auto Nitro Code Generator.
-split()
 Auto Redeem.
-split()
 Envia para seu webhook.
 </p>
 
