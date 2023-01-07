@@ -134,7 +134,7 @@ process.on('exit', () => { logger.info('Fechando Gerador... '); checkForUpdates(
 					p = proxies.shift();
 				}
 				else if (body.message === 'Unknown Gift Code') {
-					logger.warn(`${code} was an invalid gift code.              `);
+					logger.warn(`${code} Gift code Invalido.              `);
 				}
 				else { console.log(body?.message + ' - please report this on GitHub.'); }
 				logStats();
